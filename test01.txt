@@ -2,3 +2,4 @@ A. GIT Test
 B. GIT Test
 C. GIT Test
 E. Git branch
+E.1 Git commit
